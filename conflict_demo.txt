@@ -1,0 +1,3 @@
+Hello conflicted text
+I will create a merge conflict
+My name is Jasmeen Kaur
